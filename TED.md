@@ -1,0 +1,1 @@
+* [Scott Dinsmore : How to find work you love](https://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love#t-4913)
