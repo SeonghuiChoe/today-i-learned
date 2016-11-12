@@ -1,7 +1,7 @@
-# Generalization(일반화)
+# Generic
 간단히 서로 다른 개념에서 공통점을 찾는것이다. 이렇듯 어떤 개념을 포괄하는 공통된 개념을 찾아 서로 다른 개념들을 하나로 묶어 줄 수 있다.
 
-## Generalization method
+## Generic method
 int, float, string 등의 다른 타입을 변수라는 개념으로 묶어줄 수 있다.
 
 ```csharp
@@ -37,7 +37,7 @@ namespace Cs_Lecture
 }
 ```
 
-## Generalization Class
+## Generic Class
 타입마다 서로 다른 클래스를 만드는것은 상당히 비효율적이다.
 
 ```csharp
@@ -66,7 +66,7 @@ namespace Cs_Lecture
             List<float> list2 = new List<float>();
             list2.arr[0] = 2.2f;
             list<string> list3 = new List<string>();
-            list3.arr[0] = "Generalization Class";
+            list3.arr[0] = "Generic Class";
 
             console.WriteLine(list1.arr[0]);
             console.WriteLine(list2.arr[0]);

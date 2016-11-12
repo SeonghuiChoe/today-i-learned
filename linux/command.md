@@ -103,3 +103,24 @@ this is mkyong.com
 ```
 [undefined label error on Mac OS X](https://www.mkyong.com/mac/sed-command-hits-undefined-label-error-on-mac-os-x/)
 
+## scp
+---
+secure copy
+```bash
+$ scp <옵션> <원본 경로 및 파일> <복사 받을 곳 경로 및 파일>
+
+1) 원격 파일을 로컬로 복사해오기(ssh 포트 22번 아닐경우)
+$ scp -p 22 urisystem@123.123.12.1:/home/test.txt /home/myhome/
+    123.123.12.1 서버의 22번 포트로 SSH 접속하여 사용자로 로그인 한 후 test.txt 파일을 /home/oracle /아래에 복사
+
+2) 원격 폴더 전체를 로컬로 복사 (-r 옵션)
+$ scp -r -p 22 urisystem@123.123.12.1:/home/ ./
+
+3) 로컬 파일을 원격서버로 올리기(ssh 포트 22번 아닐경우)
+$ scp -p 22 ./text.txt urisystem@123.123.12.1:home/
+    text.txt파일을 /home/oracle로
+```
+자주사용하는 옵션
+* -P : 포트번호 지정
+* -p : preserve의 약자로 원본 파일 시간의 수정시간, 사용시간, 권한을 유지한다.
+* -r : recursive의 약자로 하위 폴더/파일 모두 복사한다.
