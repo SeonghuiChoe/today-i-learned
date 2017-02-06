@@ -1,4 +1,7 @@
 # Today I Learned
 We constantly learn new things.
 
-## GFM(Github Flavored Markdown)
+
+## 폴더 설명
+
+**code-blending** : 여러가지 언어로 코드 스트레칭
