@@ -1,3 +1,4 @@
+
 import tensorflow as tf
 
 x_data = [10, 9, 3, 2]
