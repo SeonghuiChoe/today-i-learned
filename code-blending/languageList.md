@@ -1,0 +1,19 @@
+ruby
+php
+scalar
+haskell
+cpp
+shell script
+csharp
+dart
+lisp
+lua
+mysql
+objective-c
+swift
+perl
+pascal
+r
+scratch
+smalltalk
+typescript
