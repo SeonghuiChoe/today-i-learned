@@ -1,8 +1,13 @@
-ruby
-php
-scalar
-haskell
-cpp
+-c
+-java
+-python
+-js
+-go
+-ruby
+-php
+-scala
+-haskell
+-cpp
 shell script
 csharp
 dart
