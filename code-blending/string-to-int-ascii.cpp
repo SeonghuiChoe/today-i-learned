@@ -6,20 +6,25 @@
 
 using namespace std;
 
-int main(int argc, char** argv) {
+int parseInt(char* str) {
     int n = 0;
     int result = 0;
-    while (argv[1][n] != '\0') {
-        int diff = argv[1][n] - 48;
+    while (str[n] != '\0') {
+        int diff = str[n] - 48;
         if (diff >= 0 && diff < 10) {
             result *= 10;
             result += diff;
         }
-         
         n++;
     }
-    if (argv[1][0] == '-') result *= -1;
-    cout << result << endl;
+    return str[0] == '-' ? 0 - result : result;
+}
+
+int main(int argc, char** argv) {
+    char* arg = argv[1];
+    int parsed = parseInt(arg);
+    cout << "Before : \"" << arg << "\"" << endl;
+    cout << "After  :  " << parsed << endl;
     return 0;
 }
 
