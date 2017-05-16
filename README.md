@@ -1,2 +1,2 @@
 # Today I Learned
-We constantly learn new things.
+We constantly learn new things..
