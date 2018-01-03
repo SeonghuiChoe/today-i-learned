@@ -7,13 +7,13 @@
 ## C#
 
 * [generalization](csharp/Generalization.md)
-* [hashtable VS dictionary](cshart/hashtable-versus-dictionary.md)
+* [hashtable VS dictionary](csharp/hashtable-versus-dictionary.md)
 * [random](csharp/random.md)
 
 ## Data structure
 
 * [associative array](data-structure/associative-array.md)
-* [hashTable](data-structure/hashTable.md)
+* [hashTable](data-structure/hash-table.md)
 
 ## database
 
