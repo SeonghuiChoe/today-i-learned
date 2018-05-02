@@ -24,6 +24,7 @@
 
 * [eval - 문자로써 표현된 javascript 코드를 실행](javascript/eval.md)
 * [promise](javascript/promise.md)
+* [popup](javascript/popup.md)
 
 ## Linux
 
