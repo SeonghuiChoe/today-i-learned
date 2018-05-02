@@ -35,6 +35,10 @@
 
 * [markdown](markdown/markdown.md)
 
+## Shell
+
+* [zsh completions](shell/zsh-completions.md)
+
 ## Hardware
 
 * [cache memory](hardware/cache-memory.md)
