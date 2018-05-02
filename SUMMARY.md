@@ -34,9 +34,9 @@
 
 * [markdown](markdown/markdown.md)
 
-## Memory
+## Hardware
 
-* [cache memory](memory/cache-memory.md)
+* [cache memory](hardware/cache-memory.md)
 
 ## Unity
 
