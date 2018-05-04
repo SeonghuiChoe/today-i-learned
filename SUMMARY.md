@@ -35,6 +35,10 @@
 
 * [markdown](markdown/markdown.md)
 
+## Nodejs
+
+* [nodemon](nodejs/nodemon.md)
+
 ## Shell
 
 * [zsh completions](shell/zsh-completions.md)
