@@ -47,6 +47,11 @@
 
 * [cache memory](hardware/cache-memory.md)
 
+## Ionic
+* [inappbrowser](ionic/inappbrowser.md)
+* [noStrictGenericChecks](ionic/noStrictGenericChecks.md)
+* [webpack loader](ionic/webpack-loader-error.md)
+
 ## Unity
 
 * [sprite packer](unity/sprite-packer.md)
