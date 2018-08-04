@@ -58,7 +58,8 @@
 
 ## Ionic
 * [inappbrowser](ionic/inappbrowser.md)
-* [ion-slides](ionic/ion-slides.md)
+* [ion slides](ionic/ion-slides.md)
+* [is not a cordova based project](ionic/is-not-a-cordova-based-project.md)
 * [noStrictGenericChecks](ionic/noStrictGenericChecks.md)
 * [webpack loader](ionic/webpack-loader-error.md)
 
