@@ -15,3 +15,5 @@ anuglar project를 build 하고 http-server로 서버에 올리고 패드에서 
 4. [웹팩](https://medium.com/@tomaskoutsky/hey-webpack-can-you-bust-my-cache-21350f951220) - 파일이름에 해시값을 넣어서 다른 파일로 인식하도록 하는 방법
 
 5. 시간이 지나면 캐시가 비워지는듯 하다.
+
+6. 개발단계에서는 ``ionic-app-scripts build``를 통해 새로 빌드를 해준다.
