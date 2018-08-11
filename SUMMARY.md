@@ -58,6 +58,7 @@
 * [cache memory](hardware/cache-memory.md)
 
 ## Ionic
+* [close inappbrowser](ionic/close-inappbrowser.md)
 * [inappbrowser](ionic/inappbrowser.md)
 * [ion slides](ionic/ion-slides.md)
 * [is not a cordova based project](ionic/is-not-a-cordova-based-project.md)
