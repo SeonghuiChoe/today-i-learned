@@ -40,6 +40,7 @@
 
 * [리눅스 명령어](linux/command.md)
 * [linux에서 한글 설정](linux/linux-language-ko.md)
+* [symbolic link](linux/symbolic-link.md)
 
 ## Markdown
 
