@@ -22,6 +22,7 @@
 * [cannot add foreign key constraint](database/cannot-add-foreign-key-constraint.md)
 
 ## Docker
+* [puppeteer dockerfile](docker/puppeteer-dockerfile.md)
 * [ionic liveloading](docker/ionic-liveloading.md)
 
 ## Javascript
